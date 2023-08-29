@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Como Desarrollador Web FullStack, tengo conocimientos en Javascript, Typescript, ReactJs, NodeJs, Express, en base de datos relacionales y no relacionales. Mis mayores fortalezas son mi paciencia, empatía y mi empeño en aprender. Busco un puesto de trabajo desafiante, donde pueda continuar formando mis actitudes, y a la vez compartir mi experiencia y conocimientos con mis compañeros de trabajo.
+
 <!--
 **Walter-Daniel/walter-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
