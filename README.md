@@ -4,6 +4,7 @@
 
 
 <h3>Acerca de mí: </h3>
+Como Desarrollador Web FullStack, tengo conocimientos en Javascript, Typescript, ReactJs, NodeJs, Express, en base de datos relacionales y no relacionales. Mis mayores fortalezas son mi paciencia, empatía y mi empeño en aprender. Busco un puesto de trabajo desafiante, donde pueda continuar formando mis actitudes, y a la vez compartir mi experiencia y conocimientos con mis compañeros de trabajo.
 
 - 🔭 Actulamente me encuentro trabajando en [Ecommerce Backend](https://github.com/Walter-Daniel/ecommerce-backend)
 
@@ -13,9 +14,9 @@
 
 - 💬 Puedes preguntarme sobre **Javascript y el Stack MERN**
 
-- 📫 Puedes contactarte conmigo a través de **walterdcarrizo.19@gmai.com**
+- 📫 Puedes comunicarte conmigo a través de **walterdcarrizo.19@gmai.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/walter-daniel-carrizo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walter-daniel-carrizo/" height="30" width="40" /></a>
 </p>
