@@ -26,8 +26,6 @@ Como Desarrollador Web FullStack, tengo conocimientos en Javascript, Typescript,
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walter-daniel&show_icons=true&locale=en&layout=compact" alt="walter-daniel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walter-daniel&" alt="walter-daniel" /></p>
-
 
 <!--
 **Walter-Daniel/walter-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
