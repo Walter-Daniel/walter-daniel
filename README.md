@@ -8,7 +8,7 @@ Como Desarrollador Web FullStack, tengo conocimientos en Javascript, Typescript,
 
 - 🔭 Actulamente me encuentro trabajando en [Ecommerce Backend](https://github.com/Walter-Daniel/ecommerce-backend)
 
-- 🌱 Actualmente me encuentro aprendiendo **C#, NextJs y Postgres**
+- 🌱 Actualmente me encuentro aprendiendo **React Native, Next.js y Postgres**
 
 - 👨‍💻 Puedes encontrar mis proyectos en [https://cv-carrizowalterdaniel.netlify.app/](https://cv-carrizowalterdaniel.netlify.app/)
 
