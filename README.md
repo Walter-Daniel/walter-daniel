@@ -1,4 +1,4 @@
-<h1 align="center">Hola, 👋, soy Walter Daniel</h1>
+<h1 align="center">Hola 👋, soy Walter Daniel</h1>
 <h3 align="center">Un apasionado Desarrollador Web de Tucumán, Argentina.</h3>
 
 
@@ -6,7 +6,7 @@
 <h3>Acerca de mí: </h3>
 Como Desarrollador Web FullStack, tengo conocimientos en Javascript, Typescript, ReactJs, NodeJs, Express, en base de datos relacionales y no relacionales. Mis mayores fortalezas son mi paciencia, empatía y mi empeño en aprender. Busco un puesto de trabajo desafiante, donde pueda continuar formando mis actitudes, y a la vez compartir mi experiencia y conocimientos con mis compañeros de trabajo.
 
-- 🔭 Actulamente me encuentro trabajando en [Ecommerce Backend](https://github.com/Walter-Daniel/ecommerce-backend)
+- 🔭 Actulamente me encuentro desarrollando un [Dashboard con Next.js](https://github.com/Walter-Daniel/Dashboard)
 
 - 🌱 Actualmente me encuentro aprendiendo **React Native, Next.js y Postgres**
 
