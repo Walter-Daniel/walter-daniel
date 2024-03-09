@@ -6,7 +6,7 @@
 <h3>Acerca de mí: </h3>
 Como Desarrollador Web FullStack, tengo conocimientos en Javascript, Typescript, ReactJs, NodeJs, Express, en base de datos relacionales y no relacionales. Mis mayores fortalezas son mi paciencia, empatía y mi empeño en aprender. Busco un puesto de trabajo desafiante, donde pueda continuar formando mis actitudes, y a la vez compartir mi experiencia y conocimientos con mis compañeros de trabajo.
 
-- 🔭 Actulamente me encuentro desarrollando un [frontend con React Redux Toolkit, TanStackQuery y TypeScript](https://github.com/Walter-Daniel/restaurant2-project)
+- 🔭 Actulamente me encuentro desarrollando un [proyecto frontend](https://github.com/Walter-Daniel/restaurant2-project) con React Redux Toolkit, TanStackQuery y TypeScript
 
 - 🌱 Actualmente me encuentro aprendiendo **React Native, Next.js y Postgres**
 
