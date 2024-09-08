@@ -6,9 +6,9 @@
 <h3>Acerca de mí: </h3>
 Como Desarrollador Web FullStack, tengo conocimientos en Javascript, Typescript, ReactJs, NodeJs, Express, en base de datos relacionales y no relacionales. Mis mayores fortalezas son mi paciencia, empatía y mi empeño en aprender. Busco un puesto de trabajo desafiante, donde pueda continuar formando mis actitudes, y a la vez compartir mi experiencia y conocimientos con mis compañeros de trabajo.
 
-- 🔭 Actulamente me encuentro desarrollando un [proyecto frontend](https://github.com/Walter-Daniel/restaurant2-project) con React Redux Toolkit, TanStackQuery y TypeScript
+- 🔭 Actulamente me encuentro desarrollando un [Dashboard](https://github.com/Walter-Daniel/restaurant2-project) con Next.js TypeScript Clerk.js PostgreSQL y Shadcn
 
-- 🌱 Actualmente me encuentro aprendiendo **React Native, Next.js y Postgres**
+- 🌱 Actualmente me encuentro aprendiendo **Shadcn y Postgres**
 
 - 👨‍💻 Puedes encontrar mis proyectos en [https://cv-carrizowalterdaniel.netlify.app/](https://cv-carrizowalterdaniel.netlify.app/)
 
