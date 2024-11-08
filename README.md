@@ -8,8 +8,6 @@ Como Desarrollador Web FullStack, tengo conocimientos en Javascript, Typescript,
 
 - 🔭 Actulamente me encuentro desarrollando un sitio web basado en airbnb con el objetivo de promover los principales Valles y Comunas turisticas de mi provincia [Valles.tour](https://github.com/Walter-Daniel/real-estate) 
 
-- 🌱 Me encuentro realizando un bootcamp de Calilegua - **Backend con Nestjs**
-
 - 👨‍💻 Puedes encontrar mis proyectos en [https://cv-carrizowalterdaniel.netlify.app/](https://cv-carrizowalterdaniel.netlify.app/)
 
 - 📫 Puedes comunicarte conmigo enviándome un correo electrónico a **walterdcarrizo.19@gmai.com** o través de mi perfil de [linkedin](https://linkedin.com/in/walter-daniel-carrizo/)
