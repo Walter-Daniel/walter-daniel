@@ -37,10 +37,14 @@ Como Desarrollador Web FullStack, tengo conocimientos en Javascript, Typescript,
 [![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.photoshop.com/en)
 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Walter-Daniel&theme=tokyonight)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=walter-daniel&show_icons=true&locale=en&layout=compact" alt="walter-daniel" /></p>
-
+<!-- Stats in a 2x2 grid -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Walter-Daniel&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Walter-Daniel&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Walter-DanielE&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Walter-Daniel&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Walter-Daniel&theme=tokyonight&exclude={exclude})
 
 <!--
 **Walter-Daniel/walter-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
