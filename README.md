@@ -46,6 +46,8 @@ Como Desarrollador Web FullStack, tengo conocimientos en Javascript, Typescript,
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Walter-Daniel&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Walter-Daniel&theme=tokyonight&exclude={exclude})
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
 **Walter-Daniel/walter-daniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
